@@ -1,6 +1,11 @@
-<h1 align= "center"><b>Hey there🙋‍♂️, I am Rohit Patil.</b></h1>
-<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="200px">
+  <br>
+  <samp>
+    Hey there🙋‍♂️, I am Rohit Patil.
+   <br>
+  </samp>
+</p>
 <!--
 **rohts-patil/rohts-patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
