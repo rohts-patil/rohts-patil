@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="200px">
   <br>
   <samp>
-    Hey there🙋‍♂️, I am Rohit Patil.
+   <b> Hey there🙋‍♂️, I am Rohit Patil. </b>
    <br>
   </samp>
 </p>
