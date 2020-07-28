@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rohit Patil</h1>
-<h3 align="center">A backend developer and ML practitioner from India.</h3>
+<h2 align="center">Hi 👋, I'm Rohit Patil</h2>
 <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
+<h4 align="center">A backend developer and ML practitioner from India.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohts-patil" alt="rohts-patil" /> </p>
 
