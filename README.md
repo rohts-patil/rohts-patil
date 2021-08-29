@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohts-patil" alt="rohts-patil" /> </p>
 
-- 🔭 I’m currently working on **building Commodity Trading and Risk Management Software at ION Commodities.**
+- 🔭 I’m currently working on **building bill payments and recharge system for millions of Indian users at PhonePe(A Walmart company).**
 
 - 📝 I regulary write articles on [https://rohts-patil.github.io/me/](https://rohts-patil.github.io/me/)
 
